@@ -1,0 +1,105 @@
+If these ports are not enough you can get more at:https://github.com/maraisr/ports-list/blob/main/tcp.csv
+100 most commonly used well-known ports:
+
+1. **Port 20**: FTP Data
+2. **Port 21**: FTP Control
+3. **Port 22**: SSH (Secure Shell)
+4. **Port 23**: Telnet
+5. **Port 25**: SMTP (Simple Mail Transfer Protocol)
+6. **Port 53**: DNS (Domain Name System)
+7. **Port 67**: DHCP Server
+8. **Port 68**: DHCP Client
+9. **Port 69**: TFTP (Trivial File Transfer Protocol)
+10. **Port 80**: HTTP (Hypertext Transfer Protocol)
+11. **Port 110**: POP3 (Post Office Protocol version 3)
+12. **Port 123**: NTP (Network Time Protocol)
+13. **Port 143**: IMAP (Internet Message Access Protocol)
+14. **Port 161**: SNMP (Simple Network Management Protocol)
+15. **Port 179**: BGP (Border Gateway Protocol)
+16. **Port 194**: IRC (Internet Relay Chat)
+17. **Port 389**: LDAP (Lightweight Directory Access Protocol)
+18. **Port 443**: HTTPS (HTTP Secure)
+19. **Port 636**: LDAPS (LDAP over SSL)
+20. **Port 993**: IMAPS (IMAP over SSL)
+21. **Port 995**: POP3S (POP3 over SSL)
+22. **Port 1080**: SOCKS Proxy
+23. **Port 1433**: Microsoft SQL Server
+24. **Port 1521**: Oracle SQL
+25. **Port 1723**: PPTP (Point-to-Point Tunneling Protocol)
+26. **Port 3306**: MySQL Database
+27. **Port 3389**: Remote Desktop Protocol (RDP)
+28. **Port 5060**: SIP (Session Initiation Protocol)
+29. **Port 5222**: XMPP (Extensible Messaging and Presence Protocol)
+30. **Port 5432**: PostgreSQL Database
+31. **Port 5900**: Virtual Network Computing (VNC)
+32. **Port 6667**: IRC (Internet Relay Chat) over TLS/SSL
+33. **Port 8080**: HTTP Alternate (HTTP Proxy)
+34. **Port 8443**: HTTPS Alternate (HTTPS Proxy)
+35. **Port 8888**: HTTP Alternate (HTTP Proxy)
+36. **Port 9418**: Git Version Control System
+37. **Port 27017**: MongoDB Database
+38. **Port 27018**: MongoDB Database (Sharding)
+39. **Port 28017**: MongoDB HTTP Status Interface
+40. **Port 5000**: Flask Development Server
+41. **Port 54321**: Remote Desktop Protocol (RDP) Alternate
+42. **Port 5800**: Virtual Network Computing (VNC) HTTP
+43. **Port 5901**: Virtual Network Computing (VNC) Alternate
+44. **Port 6000**: X11 (X Window System)
+45. **Port 7070**: Real-Time Streaming Protocol (RTSP) Alternate
+46. **Port 8081**: HTTP Alternate (HTTP Proxy)
+47. **Port 9000**: SonarQube Web Server
+48. **Port 9090**: Apache Cassandra Database
+49. **Port 9091**: Transmission BitTorrent Client
+50. **Port 11211**: Memcached Distributed Memory Object Cache
+51. **Port 12345**: NetBus Remote Administration Tool
+52. **Port 25565**: Minecraft Multiplayer Server
+53. **Port 27015**: Steam Game Server
+54. **Port 3074**: Xbox Live
+55. **Port 33060**: MySQL Database Alternate
+56. **Port 3544**: Teredo Tunneling
+57. **Port 3780**: Ventrilo Voice Chat
+58. **Port 4321**: Remote Desktop Protocol (RDP) Alternate
+59. **Port 44818**: Ethereal Service
+60. **Port 49152**: Windows Remote Desktop Services
+61. **Port 54322**: Remote Desktop Protocol (RDP) Alternate
+62. **Port 5500**: VNC Remote Desktop
+63. **Port 5632**: PCAnywhere Remote Desktop
+64. **Port 6112**: Battle.net Gaming Service
+65. **Port 6881**: BitTorrent File Transfer
+66. **Port 7777**: Unreal Tournament Gaming Server
+67. **Port 8082**: HTTP Alternate (HTTP Proxy)
+68. **Port 8181**: HTTP Alternate (HTTP Proxy)
+69. **Port 8333**: Bitcoin Peer-to-Peer Network
+70. **Port 8883**: MQTT (Message Queuing Telemetry Transport) over SSL
+71. **Port 9418**: Git Version Control System Alternate
+72. **Port 10000**: Webmin Web-Based Administration Tool
+73. **Port 11212**: Memcached Distributed Memory Object Cache Alternate
+74. **Port 12000**: IBM DB2 Database
+75. **Port 13782**: NetBackup
+76. **Port 1701**: L2TP (Layer 2 Tunneling Protocol)
+77. **Port 17500**: Dropbox File Synchronization Service
+78. **Port 17988**: McAfee Virus Scan
+79. **Port 18500**: Dropbox File Synchronization Service Alternate
+80. **Port 19132**: Minecraft Pocket Edition Multiplayer Server
+81. **Port 27000**: FlexNet Publisher License Manager
+82. **Port 30718**: Microsoft Remote Procedure Call (RPC) Alternate
+83. **Port 3478**: STUN (Session Traversal Utilities for NAT)
+84. **Port 3659**: Battlefield Gaming Service
+85. **Port 4370**: AnyDesk Remote Desktop
+86. **Port 45567**: Apache Hadoop NameNode
+87. **Port 50000**: DB2 Database
+88. **Port 51000**: SAP Management Console
+89. **Port 5269**: XMPP Server-to-Server Communication
+90. **Port 55199**: SAP Router
+91. **Port 55555**: Oracle WebLogic Server
+92. **Port 5647**: Symantec Endpoint Protection Manager
+93. **Port 5689**: Apple Bonjour Service
+94. **Port 60001**: X11 (X Window System) Alternate
+95. **Port 65432**: Unknown
+96. **Port 6565**: SIP (Session Initiation Protocol) Alternate
+97. **Port 6666**: Unreal Tournament Gaming Server Alternate
+98. **Port 6969**: BitTorrent Tracker
+99. **Port 7001**: Oracle WebLogic Server
+100. **Port 8888**: IBM Endpoint Manager
+
+These ports are frequently used for various network services and applications.
