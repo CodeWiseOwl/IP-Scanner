@@ -19,7 +19,12 @@ def scan_ports(ip, ports):
 
 def main():
     ip_address = input("Enter the IP address to scan: ")
-    open_ports = scan_ports(ip_address, DEFAULT_PORTS)
+    custom_ports = input("Do you want to use custom ports? (y/n): ").lower()
+    if custom_ports == 'y':
+        ports = [int(port) for port in input("Enter the ports to scan (comma separated): ").split(",")]
+    else:
+        ports = DEFAULT_PORTS
+    open_ports = scan_ports(ip_address, ports)
     if open_ports:
         print("Open ports:")
         for port in open_ports:
